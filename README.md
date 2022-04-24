@@ -14,7 +14,7 @@ To predict the movie genre from the movie overview/plot.
 The Jupyter notebook contains all the code from Introduction to Conclusion. Here are the order in the Jupyter Notebook:
 
   - Introduction
-  - Data Cleaning Part 1
+  - Preliminary Data Cleaning 
   - Exploratory Data Analysis (EDA)
   - Preparation for Machine Learning
   - Machine Learning
