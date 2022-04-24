@@ -1,6 +1,13 @@
-# SC1015-Project
+# Movie Genre Predictor
 
-# References
+## About this repository
+This is a mini project which is an assignment for SC1015 (Introduction to Data Science and Aritificial Intelligence) in NTU. Below are the files that you can found in this repository:
+
+  1. Dataset: [tmdb_5000_movies](
+
+
+
+## References
 - https://datascienceparichay.com/article/pandas-split-column-by-delimiter/
 - https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
 - https://pythonprogramming.net/stop-words-nltk-tutorial/
