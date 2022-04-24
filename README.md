@@ -11,7 +11,7 @@ This is a mini project which is an assignment for SC1015 (Introduction to Data S
 To predict the movie genre from the movie overview/plot.
 
 ## What's inside our Jupyter notebook?
-The Jupyter notebook contains all the code from Introduction to Conclusion. Here are the order in the Jupyter Notebook:
+The Jupyter notebook contains all the code from Introduction to Conclusion. Here is the order in the Jupyter Notebook:
 
   - Introduction
   - Preliminary Data Cleaning 
@@ -27,14 +27,14 @@ The Jupyter notebook contains all the code from Introduction to Conclusion. Here
 
 ## Conclusion
 * The accuracy of the three models are around 30%, with the highest at 33.04%.
-* The problem of having low accuracy is because of the dataset is small and the data is quite unbalanced.
-* Dummy Classifier actually performed the best compared to other two machine learning technique due to the unbalance data. Since Dummy Classifier uses the strategy of the most frequency genre, it has a higher percentage of getting the top 2 genres hence the highest accuracy.
+* The problem of having low accuracy is because the dataset is small and the data is quite unbalanced.
+* Dummy Classifier actually performed the best compared to other two machine learning technique due to the unbalanced data. Since Dummy Classifier uses the strategy of the most frequency genre, it has a higher percentage of getting the top 2 genres hence the highest accuracy.
 * Logistic Regression model performs better than the Gaussian Naive Bayes model with the accuracy almost identical to the accuracy of the Dummy Classifier.
 * The confusion matrix plotted confirms the problem where there are many common words among the genres.
-* Due to the fact that some of the genres had words in common, false classifications occurs most on the genres which have more common words among them.
+* Due to the fact that some of the genres had words in common, false classifications occur most on the genres which have more common words among them.
 * Although the accuracy is low, which is at 33.04%, it is still higher than the probability of randomly classifying a movie into one of the genre which is 20%.
 * NLTK library is a very powerful library that allows us to analyse words which is considered as unclassified data.
-* Natural language processing (NLP) is a very interesting technique to learn and it may be possible to have a higher accuracy to predict the genres if the dataset is large enough.
+* Natural language processing (NLP) is a very interesting technique to learn and it may be possible to have a higher accuracy to predict the genres if the dataset is large enough or much larger.
 
 ## What have we learnt from this project?
 * Data cleaning using the method of split by delimiters
