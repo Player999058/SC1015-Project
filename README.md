@@ -46,7 +46,8 @@ The Jupyter notebook contains all the code from Introduction to Conclusion. Here
 * Collaboration using GitHub
 
 ## Contributions by Team Members
-
+- Chew You Chun -> Data Cleaning, EDA, Preparation for Machine Learning, Dummy Classifier
+- Anson Ang -> EDA, Gaussian Naive Bayes, Logistic Regression
 
 ## References
 - https://datascienceparichay.com/article/pandas-split-column-by-delimiter/
