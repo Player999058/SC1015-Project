@@ -5,7 +5,7 @@ This is a mini project which is an assignment for SC1015 (Introduction to Data S
 
   1. Dataset: [tmdb_5000_movies](https://github.com/Player999058/SC1015-Project/blob/main/tmdb_5000_movies.csv) obtained from Kaggle
   2. Jupyter Notebook: [Movie Genre Predictor.ipynb](https://github.com/Player999058/SC1015-Project/blob/main/Movie%20Genre%20Predictor.ipynb)
-  3. Presentation Slides: [Presentation Slides] https://github.com/Player999058/SC1015-Project/blob/main/PresentationSlides.pdf
+  3. Presentation Slides: [Presentation Slides] (https://github.com/Player999058/SC1015-Project/blob/f752d30613c9fcb690559aa7e219b37762d96bfe/PresentationSlides.pdf)
 
 ## Problem Definition
 To predict the movie genre from the movie overview/plot.
